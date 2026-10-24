@@ -1,0 +1,30 @@
+name: WakaTime weekly stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  waka:
+    runs-on: ubuntu-latest
+    env:
+      HAS_KEY: ${{ secrets.WAKATIME_API_KEY != '' }}
+    steps:
+      - name: Skip notice
+        if: env.HAS_KEY != 'true'
+        run: echo "WAKATIME_API_KEY secret not set. Add it in Settings > Secrets to enable this section."
+
+      - name: Update README waka section
+        if: env.HAS_KEY == 'true'
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 6
