@@ -16,13 +16,7 @@
       .w  { fill: #C9D1D9; }
       .m  { fill: #6E7681; }
       .cursor { animation: blink 1.1s steps(1) infinite; }
-      @keyframes blink { 50% { opacity: 0; } }
-      .l1 { animation: fade 0.3s ease-out 0.2s both; }
-      .l2 { animation: fade 0.3s ease-out 0.9s both; }
-      .l3 { animation: fade 0.3s ease-out 1.6s both; }
-      .l4 { animation: fade 0.3s ease-out 2.3s both; }
-      .l5 { animation: fade 0.3s ease-out 3.0s both; }
-      @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes blink { 50% { opacity: 0; } } }
     </style>
   </defs>
 
@@ -43,21 +37,21 @@
 
   <!-- prompt lines -->
   <g class="mono" font-size="20">
-    <g class="l1">
+    <g>
       <text x="96" y="118"><tspan class="dg">huydata@data</tspan><tspan class="m">:</tspan><tspan class="g">~</tspan><tspan class="m">$ </tspan><tspan class="w">whoami</tspan></text>
     </g>
-    <g class="l2">
+    <g>
       <text x="96" y="162" class="g" font-size="44" font-weight="700" filter="url(#blur)" opacity="0.5">Huydata</text>
       <text x="96" y="162" class="g" font-size="44" font-weight="700">Huydata</text>
       <text x="300" y="162" class="w" font-size="22">// Data Manager · in data since 2019</text>
     </g>
-    <g class="l3">
+    <g>
       <text x="96" y="214"><tspan class="dg">huydata@data</tspan><tspan class="m">:</tspan><tspan class="g">~</tspan><tspan class="m">$ </tspan><tspan class="w">cat stack.txt</tspan></text>
     </g>
-    <g class="l4">
+    <g>
       <text x="96" y="250" class="w">[ <tspan class="g">ClickHouse</tspan> ] [ <tspan class="g">BigQuery</tspan> ] [ <tspan class="g">Airflow</tspan> ] [ <tspan class="g">dbt</tspan> ] [ <tspan class="g">Python</tspan> ] [ <tspan class="g">SQL</tspan> ]</text>
     </g>
-    <g class="l5">
+    <g>
       <text x="96" y="300"><tspan class="dg">huydata@data</tspan><tspan class="m">:</tspan><tspan class="g">~</tspan><tspan class="m">$ </tspan><tspan class="w">./turn_events_into_decisions.sh --game-analytics</tspan></text>
       <rect x="96" y="314" width="12" height="22" class="g cursor"/>
     </g>
