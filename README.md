@@ -168,10 +168,10 @@
 <!--START_SECTION:projects-->
 | Repository | Description | Stack | Updated |
 |---|---|---|---|
-| [**huydata20302030**](https://github.com/huydata2026/huydata20302030) | _No description yet_ | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML"/> | 1d ago |
-| [**huydata123456**](https://github.com/huydata2026/huydata123456) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 1d ago |
-| [**candy-crush-airflow1**](https://github.com/huydata2026/candy-crush-airflow1) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 1d ago |
-| [**candy-crush-airflow**](https://github.com/huydata2026/candy-crush-airflow) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 3d ago |
+| [**huydata20302030**](https://github.com/huydata2026/huydata20302030) | _No description yet_ | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML"/> | 2d ago |
+| [**huydata123456**](https://github.com/huydata2026/huydata123456) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 2d ago |
+| [**candy-crush-airflow1**](https://github.com/huydata2026/candy-crush-airflow1) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 2d ago |
+| [**candy-crush-airflow**](https://github.com/huydata2026/candy-crush-airflow) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 4d ago |
 | [**Lesson-3-Lab**](https://github.com/huydata2026/Lesson-3-Lab) | _No description yet_ | <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square" alt="Jupyter Notebook"/> | 2mo ago |
 <!--END_SECTION:projects-->
 
