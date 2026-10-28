@@ -168,11 +168,11 @@
 <!--START_SECTION:projects-->
 | Repository | Description | Stack | Updated |
 |---|---|---|---|
-| [**huydata20302030**](https://github.com/huydata2026/huydata20302030) | _No description yet_ | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML"/> | 3d ago |
-| [**huydata123456**](https://github.com/huydata2026/huydata123456) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 3d ago |
-| [**candy-crush-airflow1**](https://github.com/huydata2026/candy-crush-airflow1) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 3d ago |
-| [**candy-crush-airflow**](https://github.com/huydata2026/candy-crush-airflow) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 5d ago |
-| [**Lesson-3-Lab**](https://github.com/huydata2026/Lesson-3-Lab) | _No description yet_ | <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square" alt="Jupyter Notebook"/> | 2mo ago |
+| [**candy-crush-airflow2026**](https://github.com/huydata2026/candy-crush-airflow2026) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | today |
+| [**candy-crush-airflow-2030**](https://github.com/huydata2026/candy-crush-airflow-2030) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | today |
+| [**huydata20302030**](https://github.com/huydata2026/huydata20302030) | _No description yet_ | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" alt="HTML"/> | 4d ago |
+| [**huydata123456**](https://github.com/huydata2026/huydata123456) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 4d ago |
+| [**candy-crush-airflow1**](https://github.com/huydata2026/candy-crush-airflow1) | _No description yet_ | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python"/> | 4d ago |
 <!--END_SECTION:projects-->
 
 ---
